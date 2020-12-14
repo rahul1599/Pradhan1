@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1149573083",
+    "project_id": "inventory-b49a0",
+    "storage_bucket": "inventory-b49a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1149573083:android:e33730d7fadf53d070b9fe",
+        "android_client_info": {
+          "package_name": "com.example.pradhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1149573083-3dgo0g8i85lut18cppksovge95s551kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDALuUBTJQVGIQoMEkjaUlNbbor8tze2Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1149573083-3dgo0g8i85lut18cppksovge95s551kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
